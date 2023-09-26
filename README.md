@@ -66,4 +66,3 @@ Plot a Learning Curve to visualize model performance with varying training data 
 Results
 The script provides insights into the performance of the credit card fraud detection model, including classification metrics, ROC-AUC curve, precision-recall curve, and learning curve. These visualizations and metrics help assess the model's ability to identify fraudulent transactions accurately.
 
-Please note that this script serves as a demonstration and may require further customization and optimization for specific use cases.
